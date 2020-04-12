@@ -1,0 +1,5 @@
+create libhamt.a
+addlib libbgc.a
+addlib hamt.a
+save
+end

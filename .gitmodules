@@ -1,0 +1,3 @@
+[submodule "bgc"]
+	path = bgc
+	url = https://github.com/jmars/bartlett-gc.git
